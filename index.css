@@ -1,0 +1,41 @@
+body{
+  background-color: rgb(8, 8, 72);
+  color: white;
+}
+.div-grid,
+.grid{
+  display: grid;
+  grid-template-columns: 200px 200px 100px 200px;
+  align-items: center;
+  column-gap: 10px;
+  row-gap: 10px;
+}
+.div-grid{
+  margin-bottom: 10px;
+  align-items: stretch;
+}
+
+.js-name,
+.js-date,
+.js-time{
+  font-size: 15px;
+  padding: 6px;
+}
+
+.add{
+  background-color: green;
+  color: white;
+  border: none;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.delete{
+  background-color: darkred;
+  color: white;
+  border: none;
+  font-size: 15px;
+  cursor: pointer;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
