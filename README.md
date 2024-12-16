@@ -28,9 +28,6 @@ Setup Instructions
 
 Follow these steps to run the project locally:
 
-Clone the repository:
-
-git clone https://github.com/koushikbethu/Time-Table/tree/main.git
 
 Navigate to the project directory:
 
